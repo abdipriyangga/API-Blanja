@@ -149,6 +149,4 @@ npm i mysql
 4.DELETE
 * /products/delete/id
 
-#### Documentasi postman
-[click here](https://documenter.getpostman.com/view/11874653/TVmTbuVR#d0ea0e49-87fc-4cf5-9e32-64c11166b2e6)
 
